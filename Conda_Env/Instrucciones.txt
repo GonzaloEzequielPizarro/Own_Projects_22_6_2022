@@ -1,0 +1,3 @@
+#En el conda promt ingresar las lineas de codigo dentro del file "Script".
+#Dentro del file está la dirección de los archivos de instalación del ambiente, esta debe modificarse para cada instalación.
+# Reivsar los files para saber que es lo que se está ejecutando. Basicamente es la creación de un ambiente
