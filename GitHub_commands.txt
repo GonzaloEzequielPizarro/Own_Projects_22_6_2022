@@ -1,0 +1,14 @@
+git clone "URL"  --> URL must be the repository link created in GitHub
+
+git add .
+
+git --version
+
+git status
+
+git config user.name ...
+
+git config user.email ...
+
+git log
+
